@@ -10,7 +10,7 @@
 - Bootstrap
 - Javascript
 - React
-
+```
 ## Intermediate knowledge
 ```markdown
 - GIT (obviously)

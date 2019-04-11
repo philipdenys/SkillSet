@@ -1,13 +1,41 @@
-## Welcome to GitHub Pages
+## Skill set overview
 
-You can use the [editor on GitHub](https://github.com/philipdenys/WorkWithMe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I user markdown/git to make this skill set overview
 
 ```markdown
+## Top 5 skills
+- HTML
+- CSS
+- Javascript
+- Photoshop
+- Illustrator
+```
+```markdown
+## Intermediate knowledge
+- 
+```
+
+```markdown
+## Basic understanding
+### Programming languages / libraries / frameworks
+
+- NativeScript (Javascript framework to develop mobile apps)
+- Type
+- AngularJS
+- VueJS
+- Bash / Shell
+- Less
+- PHP 
+- Laravel
+```
+
+
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
 Syntax highlighted code block
 
 # Header 1
@@ -23,14 +51,3 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/philipdenys/WorkWithMe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

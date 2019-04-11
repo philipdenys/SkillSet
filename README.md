@@ -1,21 +1,26 @@
 ## Skill set overview
+### Programming languages / libraries / frameworks
 
-I user markdown/git to make this skill set overview
+I used markdown/git to make this skill set overview
+
 ## Top 5 skills
 ```markdown
 - HTML
 - CSS
 - Javascript
-- Photoshop
-- Illustrator
+- 
+- 
 ```
 ## Intermediate knowledge
 ```markdown
+- GIT (obviously)
+- MarkDown
+- 
+
 
 - 
 ```
 ## Basic understanding
-### Programming languages / libraries / frameworks
 ```markdown
 
 
@@ -38,9 +43,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List

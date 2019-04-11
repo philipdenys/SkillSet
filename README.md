@@ -1,55 +1,66 @@
 ## Skill set overview
 ### Programming languages / libraries / frameworks
 
-I used markdown/git to make this skill set overview
+
 
 ## Top 5 skills
 ```markdown
-- HTML
-- CSS
-- Javascript
-- 
-- 
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **Javascript**
+- **React**
 ```
 ## Intermediate knowledge
 ```markdown
 - GIT (obviously)
 - MarkDown
-- 
-
-
-- 
+- Jquery
+-
 ```
 ## Basic understanding
 ```markdown
-
-
 - NativeScript (Javascript framework to develop mobile apps)
 - Type
 - AngularJS
 - VueJS
 - Bash / Shell
-- Less
+- Sass
 - PHP 
 - Laravel
 ```
+## My book collection
+```markdown
+- NativeScript (Javascript framework to develop mobile apps)
+- Type
+- AngularJS
+- VueJS
+- Bash / Shell
+- Sass
+- PHP 
+- Laravel
+```
+### Multimedia
+## Applications I currently work with 
+```markdown
+- Photoshop
+- Illustrator
+- After Effects
+- 
+```
 
+### Contact me
 
+My [website](https://www.philipdenys.be) 
 
-### Support or Contact
+<details><summary>Click here for extra information</summary>
+<p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
+#### yes, I've hidden this markdown section :p
 
+```markdown
+I used markdown/git to make this *skill set overview*
+```
 
-Syntax highlighted code block
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+</p>
+</details>

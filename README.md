@@ -5,12 +5,12 @@
 
 ## Top 5 skills
 ```markdown
-- **HTML**
-- **CSS**
-- **Bootstrap**
-- **Javascript**
-- **React**
-```
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- React
+
 ## Intermediate knowledge
 ```markdown
 - GIT (obviously)

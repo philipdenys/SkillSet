@@ -31,14 +31,7 @@
 ```
 ## My book collection
 ```markdown
-- NativeScript (Javascript framework to develop mobile apps)
-- Type
-- AngularJS
-- VueJS
-- Bash / Shell
-- Sass
-- PHP 
-- Laravel
+
 ```
 ### Multimedia
 ## Applications I currently work with 
@@ -46,7 +39,7 @@
 - Photoshop
 - Illustrator
 - After Effects
-- 
+- Blender (3D)
 ```
 
 ### Contact me

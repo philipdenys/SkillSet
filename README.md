@@ -1,23 +1,23 @@
 ## Skill set overview
 
 I user markdown/git to make this skill set overview
-
-```markdown
 ## Top 5 skills
+```markdown
 - HTML
 - CSS
 - Javascript
 - Photoshop
 - Illustrator
 ```
-```markdown
 ## Intermediate knowledge
+```markdown
+
 - 
 ```
-
-```markdown
 ## Basic understanding
 ### Programming languages / libraries / frameworks
+```markdown
+
 
 - NativeScript (Javascript framework to develop mobile apps)
 - Type
@@ -33,7 +33,7 @@ I user markdown/git to make this skill set overview
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
 
 
 Syntax highlighted code block

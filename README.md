@@ -16,18 +16,25 @@
 - GIT (obviously)
 - MarkDown
 - Jquery
--
+
 ```
 ## Basic understanding
 ```markdown
-- NativeScript (Javascript framework to develop mobile apps)
-- Type
+###Languages
+- Bash / Shell
+- PHP 
+- TypeScript
+
+###Libraries
 - AngularJS
 - VueJS
-- Bash / Shell
 - Sass
-- PHP 
-- Laravel
+
+###Frameworks
+- NativeScript (Javascript framework to develop mobile apps)
+- Laravel (PHP)
+- 
+
 ```
 ## My book collection
 ```markdown

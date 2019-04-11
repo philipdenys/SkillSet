@@ -1,4 +1,4 @@
-## Skill set overview
+## Skill set📋 overview
 ### Programming languages / libraries / frameworks
 
 
@@ -59,7 +59,7 @@ My [website](https://www.philipdenys.be)
 #### yes, I've hidden this markdown section :p
 
 ```markdown
-I used markdown/git to make this *skill set overview*
+👨🏽‍💻 I used markdown/git to make this *skill set overview*💻📲 
 ```
 
 </p>

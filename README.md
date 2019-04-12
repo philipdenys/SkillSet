@@ -59,9 +59,8 @@ My [website](https://www.philipdenys.be) is undergoing some transformation, ask 
 
 <details><summary>Click here for extra information</summary>
 <p>
-```markdown
+
 👨🏽‍💻 I used markdown/git to make this *skill set overview*💻📲 
-```
 
 </p>
 </details>

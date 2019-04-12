@@ -45,11 +45,12 @@
 ```
 
 ## Learning platforms
-To brush up on my skill set I have 4 go-to platforms:
+To brush up on my skill set I use these platforms:
 - [Codecademy](https://www.codecademy.com/users/philipdenys/achievements)
 - [FreeCodeCamp](https://www.freecodecamp.org/philipdenys)
 - [Youtube/Traversy](https://youtu.be/UnTQVlqmDQ0)
 - [Udemy](https://www.udemy.com/user/philipdenys/)
+- [w3schools](https://www.w3schools.com/)
 
 # Multimedia
 ## Applications I currently work with 

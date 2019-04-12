@@ -18,7 +18,6 @@
 - Node.js
 - Composer
 
-
 ## Basic understanding
 ### Languages
 - Bash / Shell
@@ -34,13 +33,15 @@
 ### Frameworks
 - NativeScript (Javascript framework to develop mobile apps)
 - Laravel (PHP)
+- Magento
 - ...
 
 ## Tools
+- Visual Studio Code (IDE)
 - Vagrant
 - VirtualBox
 - Terminal
-
+- Grunt
 
 ## Learning platforms
 To brush up on my skill set I use these platforms:
@@ -52,12 +53,11 @@ To brush up on my skill set I use these platforms:
 
 # Multimedia
 ### Applications I currently work with 
-```markdown
 - Photoshop
 - Illustrator
 - After Effects
 - Blender (3D)
-```
+
 
 ### Contact me
 

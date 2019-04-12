@@ -20,18 +20,18 @@
 
 
 ## Basic understanding
-# Languages
+### Languages
 - Bash / Shell
 - TypeScript
 - XML
 
-# Libraries
+### Libraries
 - AngularJS
 - VueJS
 - Sass
 - NPM
 
-# Frameworks
+### Frameworks
 - NativeScript (Javascript framework to develop mobile apps)
 - Laravel (PHP)
 - ...
@@ -51,7 +51,7 @@ To brush up on my skill set I use these platforms:
 - [w3schools](https://www.w3schools.com/)
 
 # Multimedia
-## Applications I currently work with 
+### Applications I currently work with 
 ```markdown
 - Photoshop
 - Illustrator

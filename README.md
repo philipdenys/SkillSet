@@ -33,7 +33,7 @@
 ###Frameworks
 - NativeScript (Javascript framework to develop mobile apps)
 - Laravel (PHP)
-- 
+- ...
 
 ```
 ### Multimedia
@@ -47,13 +47,13 @@
 
 ### Contact me
 
+hi@philipdenys.be
++32 468 24 71 09
+
 My [website](https://www.philipdenys.be) is undergoing some transformation, ask me about my current work
 
 <details><summary>Click here for extra information</summary>
 <p>
-
-#### yes, I've hidden this markdown section :p
-
 ```markdown
 👨🏽‍💻 I used markdown/git to make this *skill set overview*💻📲 
 ```

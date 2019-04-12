@@ -15,6 +15,10 @@
 - MarkDown
 - Jquery
 - PHP 
+- LESS
+- Gulp
+- Node
+- Composer
 
 ```
 ## Basic understanding
@@ -32,8 +36,14 @@
 - NativeScript (Javascript framework to develop mobile apps)
 - Laravel (PHP)
 - ...
-
 ```
+## Tools
+```markdown
+- Vagrant
+- VirtualBox
+- Terminal
+```
+
 ## Learning platforms
 To brush up on my skill set I have 4 go-to platforms:
 - [Codecademy](https://www.codecademy.com/users/philipdenys/achievements)

@@ -1,15 +1,14 @@
 # 📋Skill set overview
 ### Programming languages / libraries / frameworks
 
-## Top 5 skills
+## Top 3 skills
 - HTML
 - CSS
-- Bootstrap
 - Javascript
-- React
 
 ## Intermediate knowledge
 - GIT (obviously)
+- Bootstrap
 - MarkDown
 - Jquery
 - PHP 
@@ -25,10 +24,10 @@
 - XML
 
 ### Libraries
+- React
 - AngularJS
 - VueJS
 - Sass
-- NPM
 
 ### Frameworks
 - NativeScript (Javascript framework to develop mobile apps)
@@ -42,6 +41,7 @@
 - VirtualBox
 - Terminal
 - Grunt
+- NPM
 
 ## Learning platforms
 To brush up on my skill set I use these platforms:

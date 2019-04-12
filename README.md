@@ -16,13 +16,13 @@
 - GIT (obviously)
 - MarkDown
 - Jquery
+- PHP 
 
 ```
 ## Basic understanding
 ```markdown
 ###Languages
 - Bash / Shell
-- PHP 
 - TypeScript
 
 ###Libraries
@@ -34,10 +34,6 @@
 - NativeScript (Javascript framework to develop mobile apps)
 - Laravel (PHP)
 - 
-
-```
-## My book collection
-```markdown
 
 ```
 ### Multimedia

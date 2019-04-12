@@ -51,7 +51,7 @@
 
 ### Contact me
 
-My [website](https://www.philipdenys.be) 
+My [website](https://www.philipdenys.be) is undergoing some transformation, ask me about my current work
 
 <details><summary>Click here for extra information</summary>
 <p>

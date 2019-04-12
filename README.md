@@ -1,8 +1,6 @@
 # 📋Skill set overview
 ### Programming languages / libraries / frameworks
 
-
-
 ## Top 5 skills
 ```markdown
 - HTML
@@ -21,22 +19,29 @@
 ```
 ## Basic understanding
 ```markdown
-###Languages
+# Languages
 - Bash / Shell
 - TypeScript
 
-###Libraries
+# Libraries
 - AngularJS
 - VueJS
 - Sass
 
-###Frameworks
+# Frameworks
 - NativeScript (Javascript framework to develop mobile apps)
 - Laravel (PHP)
 - ...
 
 ```
-### Multimedia
+## Learning platforms
+To brush up on my skill set I have 4 go-to platforms:
+- [Codecademy](https://www.codecademy.com/users/philipdenys/achievements)
+- [FreeCodeCamp](https://www.freecodecamp.org/philipdenys)
+- [Youtube/Traversy](https://youtu.be/UnTQVlqmDQ0)
+- [Udemy](https://www.udemy.com/user/philipdenys/)
+
+# Multimedia
 ## Applications I currently work with 
 ```markdown
 - Photoshop

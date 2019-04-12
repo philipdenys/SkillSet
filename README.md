@@ -2,47 +2,45 @@
 ### Programming languages / libraries / frameworks
 
 ## Top 5 skills
-```markdown
 - HTML
 - CSS
 - Bootstrap
 - Javascript
 - React
-```
+
 ## Intermediate knowledge
-```markdown
 - GIT (obviously)
 - MarkDown
 - Jquery
 - PHP 
 - LESS
 - Gulp
-- Node
+- Node.js
 - Composer
 
-```
+
 ## Basic understanding
-```markdown
 # Languages
 - Bash / Shell
 - TypeScript
+- XML
 
 # Libraries
 - AngularJS
 - VueJS
 - Sass
+- NPM
 
 # Frameworks
 - NativeScript (Javascript framework to develop mobile apps)
 - Laravel (PHP)
 - ...
-```
+
 ## Tools
-```markdown
 - Vagrant
 - VirtualBox
 - Terminal
-```
+
 
 ## Learning platforms
 To brush up on my skill set I use these platforms:

@@ -10,7 +10,7 @@
 - GIT (obviously)
 - Bootstrap
 - MarkDown
-- Jquery
+- JQuery
 - PHP 
 - LESS
 - Gulp
@@ -54,6 +54,7 @@ To brush up on my skill set I use these platforms:
 # Multimedia
 ### Applications I currently work with 
 - Photoshop
+- Lightroom
 - Illustrator
 - After Effects
 - Blender (3D)

@@ -1,4 +1,4 @@
-# 📋Skill set overview
+# 📋Skill set overview [![Build Status](https://travis-ci.com/philipdenys/SkillSet.svg?branch=master)](https://travis-ci.com/philipdenys/SkillSet)
 ### Programming languages / libraries / frameworks
 
 ## Top 3 skills

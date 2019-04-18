@@ -7,27 +7,25 @@
 - Javascript
 
 ## Intermediate knowledge
-- GIT (obviously)
 - Bootstrap
+- GIT
 - MarkDown
 - JQuery
 - PHP 
 - LESS
+- Sass
 - Gulp
 - Node.js
 - Composer
+- XML
 
 ## Basic understanding
 ### Languages
 - Bash / Shell
 - TypeScript
-- XML
 
-### Libraries
+### Libraries "frameworks"
 - React
-- AngularJS
-- VueJS
-- Sass
 
 ### Frameworks
 - NativeScript (Javascript framework to develop mobile apps)
@@ -58,7 +56,6 @@ To brush up on my skill set I use these platforms:
 - Illustrator
 - After Effects
 - Blender (3D)
-
 
 ### Contact me
 

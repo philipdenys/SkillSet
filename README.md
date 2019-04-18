@@ -40,6 +40,7 @@
 - Terminal
 - Grunt
 - NPM
+- Travis CI (Continuous Integration)
 
 ## Learning platforms
 To brush up on my skill set I use these platforms:

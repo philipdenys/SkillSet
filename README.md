@@ -16,7 +16,6 @@
 - Sass
 - Gulp
 - Node.js
-- Composer
 - XML
 
 ## Basic understanding
@@ -26,6 +25,7 @@
 
 ### Libraries "frameworks"
 - React
+- Angular
 
 ### Frameworks
 - NativeScript (Javascript framework to develop mobile apps)
@@ -41,6 +41,7 @@
 - Grunt
 - NPM
 - Travis CI (Continuous Integration)
+- Composer
 
 ## Learning platforms
 To brush up on my skill set I use these platforms:

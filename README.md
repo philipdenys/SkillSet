@@ -23,25 +23,21 @@
 - Bash / Shell
 - TypeScript
 
-### Libraries "frameworks"
+### Libraries
 - React
-- Angular
+
 
 ### Frameworks
-- NativeScript (Javascript framework to develop mobile apps)
-- Laravel (PHP)
-- Magento
-- ...
+- Backbone
+- Angular
 
 ## Tools
 - Visual Studio Code (IDE)
-- Vagrant
 - VirtualBox
 - Terminal
-- Grunt
+- Gulp
 - NPM
 - Travis CI (Continuous Integration)
-- Composer
 
 ## Learning platforms
 To brush up on my skill set I use these platforms:
@@ -57,6 +53,7 @@ To brush up on my skill set I use these platforms:
 - Lightroom
 - Illustrator
 - After Effects
+- XD
 - Blender (3D)
 
 ### Contact me

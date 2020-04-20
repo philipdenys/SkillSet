@@ -18,8 +18,8 @@
 - XML
 
 ## Currently learning 
+- NetSuite / SuiteScript 2.0
 - C# (.NET)
-- SuiteScript 2.0
 
 ## Basic understanding
 ### Languages

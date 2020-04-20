@@ -12,11 +12,14 @@
 - MarkDown
 - JQuery
 - PHP 
-- LESS
 - Sass
 - Gulp
 - Node.js
 - XML
+
+## Currently learning 
+- C# (.NET)
+- SuiteScript 2.0
 
 ## Basic understanding
 ### Languages
@@ -26,13 +29,13 @@
 ### Libraries
 - React
 
-
 ### Frameworks
 - Backbone
 - Angular
 
 ## Tools
 - Visual Studio Code (IDE)
+- Visual Studio (IDE)
 - VirtualBox
 - Terminal
 - Gulp

@@ -16,14 +16,16 @@
 - Gulp
 - Node.js
 - XML
+- Bash / Shell
 
 ## Currently learning 
-- NetSuite / SuiteScript 2.0
+- NetSuite  (SuiteScript 2.0 / 2.1)
 - C# (.NET)
+- Magento 2.3
+- Docker
 
 ## Basic understanding
 ### Languages
-- Bash / Shell
 - TypeScript
 
 ### Libraries

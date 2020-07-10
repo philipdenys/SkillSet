@@ -6,23 +6,19 @@
 - CSS
 - Javascript
 
-## Intermediate knowledge
-- Bootstrap
-- GIT
-- MarkDown
-- JQuery
-- PHP 
-- Sass
-- Gulp
-- Node.js
-- XML
-- Bash / Shell
+|  Intermediate knowledge |  Currently learning  	              |   	
+|---	                    |---	                                |
+|   Bootstrap 	          |  NetSuite  (SuiteScript 2.0 / 2.1)	|   	
+|   GIT	                  |  C# (.NET)	                        |   	
+|   MarkDown	            |  Magento 2.3 	                      |   
+|   JQuery                |  Docker	                            |    
+|   PHP                   |   	                                |   
+|   Sass                  |   	|   	
+|   Gulp                  |   	|   	
+|   Node.js               |   	|   
+|   XML                   |   	|   	
+|   Bash / Shell          |   	|   	
 
-## Currently learning 
-- NetSuite  (SuiteScript 2.0 / 2.1)
-- C# (.NET)
-- Magento 2.3
-- Docker
 
 ## Basic understanding
 ### Languages
@@ -42,6 +38,7 @@
 - Terminal
 - Gulp
 - NPM
+- VIM
 - Travis CI (Continuous Integration)
 
 ## Learning platforms
